@@ -1,0 +1,41 @@
+#map{
+ float: left;
+	width: 300px;
+	margin:10px;
+}
+
+#details{
+float: right;
+width: 30%;
+	margin-right:200px;
+}
+#about{
+	float: right;
+}
+marquee{
+	background-color: #327AB7;
+    color: white;
+	height: 40px;
+	padding-top: 10px;
+}
+#contact_1{
+	float: right;
+}
+.puumba{
+ width: 300px;
+ border: 1px solid gray;
+ padding: 10px;
+ float: left;
+ margin: 10px;
+ height: 400px;
+}
+.library{
+	width: 100%;
+	height: 50%;
+}
+.nav{
+	height: 30px;
+	color:white;
+	margin-top: 10px;
+}
+
